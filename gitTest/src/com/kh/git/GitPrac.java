@@ -11,5 +11,6 @@ public class GitPrac {
 		// 잘 올라갔겠지?
 		
 		System.out.println("2222");
+		System.out.println("1111");
 	}
 }
